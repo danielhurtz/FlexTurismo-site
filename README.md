@@ -1,2 +1,3 @@
 # FlexTurismo-site
-Projeto site FlexTurismo -representa elementos Flexbox CSS
+## Projeto site FlexTurismo 
+Site que representa elementos Flexbox CSS
