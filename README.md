@@ -1,3 +1,3 @@
-# FlexTurismo-site
-## Projeto site FlexTurismo 
-Site que representa elementos Flexbox CSS
+# FlexTurismo
+## Projeto site FlexTurismo - Flexbox
+- Posicionando elementos com Flexbox em CSS.
