@@ -3,7 +3,7 @@
 ![FlexBox - CSS3](https://user-images.githubusercontent.com/100965881/178810228-c25fd243-bffe-474b-94cd-fa19d167ef2c.gif)
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+
 </p>
 
 #
