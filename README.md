@@ -1,5 +1,4 @@
 <h1 align="center">FlexTurismo</h1>
- <p align="center">Projeto Site - FlexTurismo</p>
  
 ![FlexBox - CSS3](https://user-images.githubusercontent.com/100965881/178810228-c25fd243-bffe-474b-94cd-fa19d167ef2c.gif)
 
