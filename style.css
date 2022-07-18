@@ -91,6 +91,10 @@ header .menu {
     margin-bottom: 10px;
 }
 
+.btn:hover {
+    background-color: rgb(255, 176, 6);
+}
+
 #quem-somos {
     flex-direction: row-reverse;
     align-items: center;
